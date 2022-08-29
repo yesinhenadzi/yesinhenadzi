@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yesinhenadzi
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me esin.genn@yandex.by
 
 <!---
